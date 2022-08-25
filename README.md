@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there! I am Shivani :wave:
 
 - 🔭 I’m currently working as Digital Specialist Engineer at Infosys.
 - 🌱 I’m currently learning Angular
