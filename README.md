@@ -10,4 +10,5 @@ Hi there 👋
 - ⚡ Fun fact: Chai Addict
 - I am a graduate of the class of 2021 in Information Technology from RCCIIT, Kolkata. :bowtie:
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shivanisingh1809&theme=highcontrast&show_icons=true&count_private=true)
 
