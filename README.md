@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Shivanisingh1809/Shivanisingh1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as Digital Specialist Engineer at Infosys.
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me: 
+      1.www.linkedin.com/in/shivani-kumari-11a927196 
+      2. shivanikumari8538@gmail.com
 
-Here are some ideas to get you started:
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Chai Addict
+- I am a graduate of the class of 2021 in Information Technology from RCCIIT, Kolkata. :bowtie:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
